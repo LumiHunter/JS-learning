@@ -1,6 +1,7 @@
 /**
  * 1) var: 더 이상 쓰지 않는다.
- * 2) let:
+ * 2) let
+ * 3) const
  */
 
 var name = "CodeFactory";
