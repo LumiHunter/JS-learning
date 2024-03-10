@@ -1,5 +1,6 @@
 # JS-learning
 
+[Inflearn '코드팩토리' 지식공유자의 < [입문] 9시간만에 끝내는 코드팩토리의 Javascript 무료 풀코스> 강의 수강 repository 입니다](https://inf.run/xNcEg)
 ## 메모리 이론
 
 변수란, 메모리 셀(각각 1Byte씩) 주소에 붙여놓은 이름이라고 할 수 있다.
